@@ -1,0 +1,3 @@
+C:/Users/parsa/CLionProjects/proje_mrjack/cmake-build-debug/CMakeFiles/proje_mrjack.dir
+C:/Users/parsa/CLionProjects/proje_mrjack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/parsa/CLionProjects/proje_mrjack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

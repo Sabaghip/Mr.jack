@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/parsa/CLionProjects/proje_mrjack/linked_list.h
+zamin_funcs.h
+C:/Users/parsa/CLionProjects/proje_mrjack/zamin_funcs.h
+
+C:/Users/parsa/CLionProjects/proje_mrjack/zamin_funcs.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+linked_list.h
+C:/Users/parsa/CLionProjects/proje_mrjack/linked_list.h
+time.h
+-
+
+C:/Users/parsa/CLionProjects/proje_mrjack/zamin_funcs.h
+stdlib.h
+-
+stdio.h
+-
+
